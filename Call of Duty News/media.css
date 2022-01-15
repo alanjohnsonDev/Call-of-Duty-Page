@@ -1,0 +1,9 @@
+.main-img {
+    width: 80%;
+}
+
+@media all and (max-width: 480px) {
+    .main-img {
+        width: 100%;
+    }
+}

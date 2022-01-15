@@ -1,0 +1,72 @@
+body {
+    text-align: center;
+    font-family: Verdana, Georgia;
+    color: white;
+    background-color: black;
+    opacity: 0.9;
+  }
+  
+  .center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  h1 {
+    color: red;
+    font-size: 70px;
+  }
+  
+  h2 {
+    color: white;
+    font-size: 40px;
+  }
+  
+  h3 {
+    color: red;
+    opacity: 0.75;
+    font-size: 30px;
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 1rem 2rem;
+    border-radius: 2px;
+  }
+  
+  .btn {
+    color: red;
+  }
+  
+  .btn-click-here {
+    font-size: 2rem;
+    background: #000;
+    transition: background 0.3s ease-out;
+  }
+  
+  .btn-click-here:hover {
+    background: red;
+    color: white;
+  }
+  
+  h4 {
+    color: white;
+    font-size: 20px;
+  }
+  
+  tr {
+    background-color: white;
+  }
+  
+  #tr {
+    color: black;
+  }
+  
+  td {
+    background-color: red;
+    text-align: left;
+  }
+  
+  p {
+    color: white;
+    font-size: 18px;
+  }
